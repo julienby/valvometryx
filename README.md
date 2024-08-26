@@ -1,5 +1,8 @@
 # Valvometryx
 
+![image](https://github.com/user-attachments/assets/c3dca7e3-4c56-4619-bb47-8ab85a71240d)
+
+
 **Valvometryx** is an open-source project dedicated to creating a standardized framework for valvometry, the measurement and evaluation of valve performance. 
 
 This project offers tools and guidelines to help researchers, engineers, and healthcare professionals accurately assess valve functionality in both mechanical and biological systems.
